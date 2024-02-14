@@ -267,8 +267,20 @@ a{
     text-align: center;
     margin-top: 30px;
 }
-.poem{
-    
+.box_body p{
+    margin-top: 30px;
+    display: flex;    font-weight: bold;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: url("img/river.jpg")center/cover no-repeat;
+
+    margin: 40px 30%;
+    justify-content: center;
+    font-size: 30px;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
 }
 .poem p{
     background-color: grey;
@@ -348,12 +360,12 @@ a{
 .box{
     margin-left: 90px;
 }
-.box_body{
-    margin-top: 30px;
-    display: flex;
-    justify-content: center;
-}
-.box_img img{
+
+/*.box_img{
+    font-size: 100px;
+    height: 100px;
+}*/
+/*.box_img img{
     height: 100px;
     margin-left: 250px;
     margin-top: 100px;
@@ -364,11 +376,7 @@ a{
     width: 100%;
     background: url("images/land0.jpg")center/cover no-repeat;
     border-radius: 30px 0 0 30px;
-}
-.box_body p{
-    background: lightskyblue;
-    border-radius: 0 30px 30px 0;
-}
+}*/
 .box_title{
     justify-content: center;
     margin: auto;
