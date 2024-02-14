@@ -273,7 +273,7 @@ a{
     display: flex;
     text-align: center;
     justify-content: center;
-    /*background: url("img/river.jpg")center/cover no-repeat;*/
+    background: url("img/river.jpg")center/cover no-repeat;
 
     margin: 40px 30%;
     justify-content: center;
